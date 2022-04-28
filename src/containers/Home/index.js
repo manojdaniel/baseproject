@@ -21,7 +21,7 @@ class Home extends Component {
 
 const styles = StyleSheet.create({
     sectionContainer: {
-        marginTop: 32,
+        marginTop: 35,
         paddingHorizontal: 24,
     },
     sectionTitle: {
